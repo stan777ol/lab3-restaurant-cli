@@ -1,0 +1,63 @@
+{
+  "restaurantName": "Смачна Хата",
+  "categories": [
+    {
+      "categoryName": "Перші страви",
+      "dishes": [
+        {
+          "name": "Борщ український",
+          "price": 120.50,
+          "weightGrams": 300,
+          "ingredients": [
+            "буряк",
+            "капуста",
+            "картопля",
+            "яловичина",
+            "сметана"
+          ],
+          "isVegetarian": false,
+          "isSpicy": false,
+          "calories": 450,
+          "allergenInfo": null
+        },
+        {
+          "name": "Том Ям",
+          "price": 250,
+          "weightGrams": 350,
+          "ingredients": [
+            "креветки",
+            "печериці",
+            "лемонграс",
+            "кокосове молоко",
+            "чилі"
+          ],
+          "isVegetarian": false,
+          "isSpicy": true,
+          "calories": null,
+          "allergenInfo": "морепродукти"
+        }
+      ]
+    },
+    {
+      "categoryName": "Салати",
+      "dishes": [
+        {
+          "name": "Грецький",
+          "price": 150,
+          "weightGrams": 250,
+          "ingredients": [
+            "помідори",
+            "огірки",
+            "сир фета",
+            "оливки",
+            "оливкова олія"
+          ],
+          "isVegetarian": true,
+          "isSpicy": false,
+          "calories": 200,
+          "allergenInfo": "лактоза"
+        }
+      ]
+    }
+  ]
+}
